@@ -2,7 +2,7 @@
 
 Hola! I'm Isabel from Santiago, Chile.
 <br />
-Check out my portfolio site: [here]
+Check out my portfolio site: <a href="http://isabelhong.com" target="_blank">here</a>
 
 ## More about me:
 
@@ -18,7 +18,7 @@ Check out my portfolio site: [here]
 
 ### Let's connect:
 
-[<img align="left" alt="Isabel Hong | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<img align="left" alt="Isabel Hong | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a href="http://www.linkedin.com/in/isabel-hong" target="_blank">LinkedIn</a>
 
 <br />
 
@@ -41,14 +41,15 @@ Check out my portfolio site: [here]
 
 ---
 
-### 📕 Latest Blog Posts:
+### 📕 Latest Medium Articles:
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Send emails using Gmail and Nodemailer](https://isabelhong.medium.com/send-emails-using-gmail-and-nodemailer-b455b925a72a)
-- [Learning Multidimensional Array Addition in Javascript](https://medium.com/swlh/learning-multidimensional-array-addition-in-javascript-890a75bc2c29)
+- Learning Multidimensional Array Addition in Javascript<a href="http://medium.com/swlh/learning-multidimensional-array-addition-in-javascript-890a75bc2c29" target="_blank">
+Go to Medium</a>
+- Send emails using Gmail and Nodemailer<a href="http://isabelhong.medium.com/send-emails-using-gmail-and-nodemailer-b455b925a72a" target="_blank">
+Go to Medium</a>
+
 
 <!-- BLOG-POST-LIST:END -->
 
-[here]: http://isabelhong.com
-[linkedin]: http://https://www.linkedin.com/in/isabel-hong/
