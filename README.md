@@ -2,7 +2,7 @@
 
 Hola! I'm Isabel from Santiago, Chile.
 <br />
-Check out my portfolio site: <a href="http://isabelhong.com" target="_blank">here</a>
+Check out my portfolio site: [here]
 
 ## More about me:
 
@@ -18,7 +18,7 @@ Check out my portfolio site: <a href="http://isabelhong.com" target="_blank">her
 
 ### Let's connect:
 
-<img align="left" alt="Isabel Hong | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a href="http://www.linkedin.com/in/isabel-hong" target="_blank">LinkedIn</a>
+[<img align="left" alt="Isabel Hong | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -41,15 +41,14 @@ Check out my portfolio site: <a href="http://isabelhong.com" target="_blank">her
 
 ---
 
-### 📕 Latest Medium Articles:
+### 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
 
-- Learning Multidimensional Array Addition in Javascript<a href="http://medium.com/swlh/learning-multidimensional-array-addition-in-javascript-890a75bc2c29" target="_blank">
-Go to Medium</a>
-- Send emails using Gmail and Nodemailer<a href="http://isabelhong.medium.com/send-emails-using-gmail-and-nodemailer-b455b925a72a" target="_blank">
-Go to Medium</a>
-
+- [Send emails using Gmail and Nodemailer](http://isabelhong.medium.com/send-emails-using-gmail-and-nodemailer-b455b925a72a)
+- [Learning Multidimensional Array Addition in Javascript](http://medium.com/swlh/learning-multidimensional-array-addition-in-javascript-890a75bc2c29)
 
 <!-- BLOG-POST-LIST:END -->
 
+[here]: http://isabelhong.com
+[linkedin]: http://www.linkedin.com/in/isabel-hong/
