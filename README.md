@@ -50,5 +50,5 @@ Check out my portfolio site: [here]
 
 <!-- BLOG-POST-LIST:END -->
 
-[here]: https://isabelhong.com
-[linkedin]: https://https://www.linkedin.com/in/isabel-hong/
+[here]: http://isabelhong.com
+[linkedin]: http://https://www.linkedin.com/in/isabel-hong/
