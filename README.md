@@ -47,7 +47,6 @@ Check out my portfolio site: [here]
 
 - [Send emails using Gmail and Nodemailer](http://isabelhong.medium.com/send-emails-using-gmail-and-nodemailer-b455b925a72a)
 - [Learning Multidimensional Array Addition in Javascript](http://medium.com/swlh/learning-multidimensional-array-addition-in-javascript-890a75bc2c29)
-- [Server side user authentication and authorization in Node apps] (https://medium.com/javascript-in-plain-english/server-side-user-authentication-and-authorization-in-node-apps-733c387c7103)
 
 <!-- BLOG-POST-LIST:END -->
 
