@@ -43,10 +43,11 @@ Check out my portfolio site: [here]
 ### 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Build a News App with the NYTimes API & React JS](https://medium.com/javascript-in-plain-english/build-a-news-app-with-the-nytimes-api-react-js-c3b4440ede7f?source=friends_link&sk=77fbe5b9fa37bba3244c777fa2e15e41)
+- [Server side user authentication and authorization in Node apps](https://medium.com/javascript-in-plain-english/server-side-user-authentication-and-authorization-in-node-apps-733c387c7103)
 - [Send emails using Gmail and Nodemailer](http://isabelhong.medium.com/send-emails-using-gmail-and-nodemailer-b455b925a72a)
 - [Learning Multidimensional Array Addition in Javascript](http://medium.com/swlh/learning-multidimensional-array-addition-in-javascript-890a75bc2c29)
-- [Server side user authentication and authorization in Node apps](https://medium.com/javascript-in-plain-english/server-side-user-authentication-and-authorization-in-node-apps-733c387c7103)
+
 
 <!-- BLOG-POST-LIST:END -->
 
