@@ -6,11 +6,7 @@ Check out my portfolio site: [here]
 
 ## More about me:
 
-- 🌱 I’m currently learning the MERN stack at The Hacking School, Hyderabad
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Build useful web apps that make people's lives more efficient and fun!
-- 💬 Ask me about my coding bootcamp, life in Chile, career transitions
-- ⚡ Fun fact: I love to dance tango and I am fluent in Spanish and Korean
+🌱 I’m currently a Software Developer at Thoughtworks, Chile
 
 <br />
 ---
