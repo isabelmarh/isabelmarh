@@ -8,6 +8,13 @@ Check out my portfolio site: [here]
 
 🌱 I’m currently a Software Developer at Thoughtworks, Chile
 
+### Technical Skills
+Javascript, Node.js, Express, Typescript, Jest, HTML, CSS
+Git, Jira, Agile methodology, TDD
+
+### Language Skills
+Strong verbal and written communication skills in English and Spanish, in technical, business and colloquial settings.
+
 <br />
 ---
 
